@@ -74,7 +74,8 @@ This project is an embedded system implementation of a **secure door lock** usin
 Here is the simulation setup for the login system in Proteus:
 
 <p align="center">
-  <img src="![Simulation](https://github.com/user-attachments/assets/0501d053-ee51-4161-984c-2577782054d2)" alt="Proteus Simulation" width="600px" style="border-radius: 12px;" />
+  <img src="![Simulation](https://github.com/user-attachments/assets/0f65ab62-ae0b-4f58-8b53-86576868b100)
+" alt="Proteus Simulation" width="600px" style="border-radius: 12px;" />
 </p>
 
 
