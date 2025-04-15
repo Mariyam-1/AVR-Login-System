@@ -67,14 +67,15 @@ This project is an embedded system implementation of a **secure door lock** usin
 - **AVR ATmega32**
 - **AVR-GCC (C language)**
 - **Proteus / Atmel Studio / Microchip Studio** (for simulation/debugging)
+![Simulation](https://github.com/user-attachments/assets/711d5b46-a7db-4069-9085-49d74fe90201)
 
   ---
--## 🔌 Proteus Simulation
+## 🔌 Proteus Simulation
 
 Here is the simulation setup for the login system in Proteus:
 
 <p align="center">
-  <img src="./Simulation.png" alt="Proteus Simulation" width="600px" style="border-radius: 12px;" />
+  <img src="[Uploading Simulation.png…]()" alt="Proteus Simulation" width="600px" style="border-radius: 12px;" />
 </p>
 
 
