@@ -69,11 +69,14 @@ This project is an embedded system implementation of a **secure door lock** usin
 - **Proteus / Atmel Studio / Microchip Studio** (for simulation/debugging)
 
   ---
-- ## 🔌 Proteus Simulation
+-## 🔌 Proteus Simulation
 
 Here is the simulation setup for the login system in Proteus:
 
-![Proteus Simulation](./Simulation.png)
+<p align="center">
+  <img src="./Simulation.png" alt="Proteus Simulation" width="400px" style="border-radius: 12px;" />
+</p>
+
 
 
 ---
