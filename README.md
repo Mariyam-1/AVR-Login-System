@@ -4,8 +4,25 @@ This project is an embedded system implementation of a **secure door lock** usin
 
 ---
 
-## 📁 File Structure
-avr-login-system/ ├── APP/ │ └── main.c ├── HAL/ │ ├── LCD.h │ ├── LCD_TYPES.h │ ├── KEYPAD.h │ ├── LED.h │ ├── Buzzer.h │ ├── Motor.h │ ├── LCD.c │ ├── KEYPAD.c │ ├── LED.c │ ├── Buzzer.c │ └── Motor.c ├── MCAL/ │ ├── DIO.h │ ├── Interrupt.h │ ├── Timer0_confg.h │ ├── timer0_interface.h │ ├── Timer0_Private.h │ ├── DIO.c │ ├── Interrupt.c │ └── Timer0_programe.c ├── LIB/ │ ├── BitMath.h │ └── STD.h
+## 📦 Folder Contents
+
+### 🔹 APP/
+- `main.c`  
+  Contains the main application logic (login handling, password setting, and motor control).
+
+### 🔹 HAL/ (Hardware Abstraction Layer)
+- `LCD.*`, `KEYPAD.*`, `LED.*`, `Buzzer.*`, `Motor.*`  
+  Drivers for external components like LCD, Keypad, LEDs, Buzzer, and DC Motor.
+
+### 🔹 MCAL/ (Microcontroller Abstraction Layer)
+- `DIO.*`, `Interrupt.*`, `Timer0_*.*`  
+  Drivers for microcontroller core functionalities such as I/O pins, external interrupts, and Timer0.
+
+### 🔹 LIB/
+- `BitMath.h`  
+  Macros for bit manipulation (SET_BIT, CLR_BIT, etc).
+- `STD.h`  
+  Common typedefs like `u8`, `u16`, `u32`, and standard macros.
 
 ---
 
@@ -50,6 +67,14 @@ avr-login-system/ ├── APP/ │ └── main.c ├── HAL/ │ ├─�
 - **AVR ATmega32**
 - **AVR-GCC (C language)**
 - **Proteus / Atmel Studio / Microchip Studio** (for simulation/debugging)
+
+  ---
+- ## 🔌 Proteus Simulation
+
+Here is the simulation setup for the login system in Proteus:
+
+![Proteus Simulation](./assets/simulation.png)
+
 
 ---
 
