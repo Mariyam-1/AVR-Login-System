@@ -5,33 +5,7 @@ This project is an embedded system implementation of a **secure door lock** usin
 ---
 
 ## 📁 File Structure
-avr-login-system/
-├── APP/
-│   └── main.c
-├── HAL/
-│   ├── LCD.h
-│   ├── LCD_TYPES.h
-│   ├── KEYPAD.h
-│   ├── LED.h
-│   ├── Buzzer.h
-│   └── Motor.h
-│   ├── LCD.c
-│   ├── KEYPAD.c
-│   ├── LED.c
-│   ├── Buzzer.c
-│   └── Motor.c
-├── MCAL/
-│   ├── DIO.h
-│   ├── Interrupt.h
-│   ├── Timer0_confg.h
-│   ├── timer0_interface.h
-│   ├── Timer0_Private.h
-│   ├── DIO.c
-│   ├── Interrupt.c
-│   ├── Timer0_programe.c
-├── LIB/
-│   ├── BitMath.h
-│   └── STD.h
+avr-login-system/ ├── APP/ │ └── main.c ├── HAL/ │ ├── LCD.h │ ├── LCD_TYPES.h │ ├── KEYPAD.h │ ├── LED.h │ ├── Buzzer.h │ ├── Motor.h │ ├── LCD.c │ ├── KEYPAD.c │ ├── LED.c │ ├── Buzzer.c │ └── Motor.c ├── MCAL/ │ ├── DIO.h │ ├── Interrupt.h │ ├── Timer0_confg.h │ ├── timer0_interface.h │ ├── Timer0_Private.h │ ├── DIO.c │ ├── Interrupt.c │ └── Timer0_programe.c ├── LIB/ │ ├── BitMath.h │ └── STD.h
 
 ---
 
