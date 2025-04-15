@@ -77,6 +77,7 @@ Here is the simulation setup for the login system in Proteus:
   <img src=![Simulation](https://github.com/user-attachments/assets/0f65ab62-ae0b-4f58-8b53-86576868b100)
 alt="Proteus Simulation" width="600px" style="border-radius: 12px;" />
 </p>
+![Simulation](https://github.com/user-attachments/assets/6bc25d9a-e5d9-47e7-828a-9c5b09cca75f)
 
 
 
