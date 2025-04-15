@@ -40,13 +40,13 @@ This project is an embedded system implementation of a **secure door lock** usin
 
 ## ✅ Features
 
-- 🛡️ **5-Digit Password Setup & Verification**
-- 🔁 **Three Attempts Before Lockdown**
-- 🔐 **Motor-Driven Door Operation**
+-  **5-Digit Password Setup & Verification**
+-  **Three Attempts Before Lockdown**
+-  **Motor-Driven Door Operation**
   - 15s Open → 3s Hold → 15s Close
-- 🚨 **Buzzer Alert** after 3 failed trials
-- ⚡ **Interrupt Handling** for real-time security reset
-- 🧠 **All Drivers Implemented from Scratch**
+-  **Buzzer Alert** after 3 failed trials
+-  **Interrupt Handling** for real-time security reset
+-  **All Drivers Implemented from Scratch**
 
 ---
 
@@ -62,7 +62,7 @@ This project is an embedded system implementation of a **secure door lock** usin
 
 ---
 
-## 🚧 Built With
+##  Built With
 
 - **AVR ATmega32**
 - **AVR-GCC (C language)**
